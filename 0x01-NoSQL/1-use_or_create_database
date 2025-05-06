@@ -1,0 +1,2 @@
+// Uses my_db database or creates it if it doesn't exist
+use my_db;
